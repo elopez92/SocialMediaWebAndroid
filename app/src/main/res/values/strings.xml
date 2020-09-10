@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterWebService</string>
+    <string name="enter_email">Enter your Email</string>
+    <string name="enter_password">Enter your Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774570357765",
+    "firebase_url": "https://twitter-3faca.firebaseio.com",
+    "project_id": "twitter-3faca",
+    "storage_bucket": "twitter-3faca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774570357765:android:d2e9849cb90b292520986c",
+        "android_client_info": {
+          "package_name": "manic.com.twitterwebservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774570357765-noc4hds23o3hm8kfpbeh1ac6iftgjc91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbC7iZsVJmF-z3tvv0MiE7ALRAsQN2urk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774570357765-noc4hds23o3hm8kfpbeh1ac6iftgjc91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
